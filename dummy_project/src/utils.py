@@ -1,4 +1,3 @@
-# Utility functions 
 """
 Utility functions for Knowledge Repository
 This module provides core functionality for managing and accessing knowledge repository data.
